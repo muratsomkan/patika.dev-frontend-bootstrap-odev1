@@ -1,0 +1,11 @@
+
+.jumbotron 
+{
+    background-color: #E9ECEF;
+    padding: 0;
+}
+.card img
+{
+    height: 300px;
+    width: 300px;
+}
